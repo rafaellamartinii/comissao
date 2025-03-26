@@ -1,4 +1,4 @@
-Varaiveis
+Variveis
 salario,venda,comissao:real
 
 Inicio
